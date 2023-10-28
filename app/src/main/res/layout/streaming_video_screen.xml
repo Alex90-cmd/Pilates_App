@@ -1,0 +1,179 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		streaming_video_screen
+	 *	@date 		Friday 27th of October 2023 05:56:20 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/streaming_video_screen" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+			<View
+				android:id="@+id/rectangle15"
+				android:layout_width="410dp"
+				android:layout_height="640dp"
+				android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp"
+				android:background="@drawable/rectangle15_shape" />
+
+
+			<RelativeLayout
+				android:id="@+id/searchbar"
+				android:layout_width="410dp"
+				android:layout_height="wrap_content"
+				android:layout_marginStart="0dp"
+				android:layout_marginTop="568dp">
+
+				<ImageView
+					android:id="@+id/______1"
+					android:layout_width="56dp"
+					android:layout_height="53dp"
+					android:layout_marginStart="180dp"
+					android:layout_marginTop="27dp"
+					android:alpha="0.69999998807907"
+					android:contentDescription="______1"
+					android:src="@drawable/_______1dd" />
+
+				<ImageButton
+					android:id="@+id/setting2"
+					android:layout_width="38dp"
+					android:layout_height="38dp"
+					android:layout_marginStart="100dp"
+					android:layout_marginTop="40dp"
+					android:alpha="0.69999998807907"
+					android:contentDescription="setting2"
+					android:src="@drawable/setting_2dd" />
+
+				<ImageButton
+					android:id="@+id/home1"
+					android:layout_width="36dp"
+					android:layout_height="36dp"
+					android:layout_marginStart="20dp"
+					android:layout_marginTop="40dp"
+					android:alpha="0.69999998807907"
+					android:contentDescription="home1"
+					android:onClick="BtnCLICK_BACK"
+					android:src="@drawable/home_1dd" />
+
+				<ImageView
+					android:id="@+id/star1"
+					android:layout_width="36dp"
+					android:layout_height="36dp"
+					android:layout_marginStart="280dp"
+					android:layout_marginTop="40dp"
+					android:alpha="0.69999998807907"
+					android:contentDescription="star1"
+					android:src="@drawable/star_1dd" />
+
+				<ImageView
+					android:id="@+id/user1"
+					android:layout_width="36dp"
+					android:layout_height="36dp"
+					android:layout_marginStart="355dp"
+					android:layout_marginTop="40dp"
+					android:alpha="0.69999998807907"
+					android:contentDescription="user1"
+					android:src="@drawable/user_1dd" />
+
+				<ImageView
+					android:id="@+id/line5"
+					android:layout_width="70dp"
+					android:layout_height="5dp"
+					android:layout_marginStart="175dp"
+					android:layout_marginTop="80dp"
+					android:contentDescription="line5"
+					android:src="@drawable/line5" />
+
+			</RelativeLayout>
+
+
+			<RelativeLayout android:id="@+id/sign_up_button"
+				android:layout_marginTop="450dp"
+				android:layout_marginStart="45dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/rectangle9"
+					android:background="@drawable/rectangle9_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="324dp"
+					android:layout_height="46dp" />
+
+				<TextView android:id="@+id/done"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="14sp"
+					android:textColor="@color/done_color"
+					android:layout_marginLeft="141dp"
+					android:layout_marginTop="13dp"
+					android:layout_width="43.4dp"
+					android:layout_height="24.4dp"
+					android:text="@string/done_string"
+					 />
+
+			</RelativeLayout>
+
+			<TextView android:id="@+id/description_of_the_training__from_a_supine_position__lying_on_your_back__with_bent_knees__press_your_feet_into_the_floor_and_lift_your_hips__initially__you_can_hold_the_positions_to_build_isometric_strength__over_time__lift_on_the_exhalation_and_lower_your_hips_on_the_inhalation_"
+				android:textSize="14sp"
+				android:textColor="@color/rectangle9_color"
+				android:layout_marginLeft="18dp"
+				android:layout_marginTop="278dp"
+				android:layout_width="375dp"
+				android:layout_height="145.4dp"
+				android:text="@string/description_of_the_training__from_a_supine_position__lying_on_your_back__with_bent_knees__press_your_feet_into_the_floor_and_lift_your_hips__initially__you_can_hold_the_positions_to_build_isometric_strength__over_time__lift_on_the_exhalation_and_lower_your_hips_on_the_inhalation__string"
+				 />
+
+			<View   android:id="@+id/rectangle17"
+				android:background="@drawable/rectangle17_shape"
+				 android:layout_marginStart="19dp"
+				android:layout_marginTop="97dp"
+				android:layout_width="375dp"
+				android:layout_height="164dp" />
+
+
+			<RelativeLayout android:id="@+id/youtube_sign"
+				android:layout_marginTop="147dp"
+				android:layout_marginStart="155dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<ImageButton
+					android:id="@+id/rectangle18"
+					android:layout_width="108dp"
+					android:layout_height="63dp"
+					android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:background="@drawable/rectangle18_shape" />
+
+				<ImageView android:id="@+id/polygon1"
+					android:src="@drawable/polygon1"
+					android:contentDescription="polygon1"
+					 android:layout_marginStart="45dp"
+					android:layout_marginTop="14dp"
+					android:layout_width="21.75dp"
+					android:layout_height="26.85dp" />
+
+			</RelativeLayout>
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

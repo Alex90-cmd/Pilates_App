@@ -1,0 +1,208 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		choose_the_program_screen
+	 *	@date 		Saturday 28th of October 2023 12:00:12 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/choose_the_program_screen" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_choose_the_program_screen_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+
+
+
+				<View
+					android:id="@+id/rectangle134"
+					android:layout_width="410dp"
+					android:layout_height="640dp"
+					android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:background="@drawable/rectangle134_shape" />
+
+				<RelativeLayout android:id="@+id/searchbar8"
+					android:layout_marginTop="568dp"
+					android:layout_marginStart="-1dp"
+					android:layout_width="410dp"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageButton android:id="@+id/screen14"
+						android:src="@drawable/_______1dd"
+						android:contentDescription="screen14"
+						android:layout_width="56dp"
+						android:layout_height="53dp"
+						android:layout_marginStart="180dp"
+						android:layout_marginTop="27dp"
+						android:alpha="0.69999998807907" />
+
+					<ImageButton android:id="@+id/setting28"
+						android:src="@drawable/setting_2dd"
+						android:contentDescription="setting28"
+						android:layout_width="38dp"
+						android:layout_height="38dp"
+						android:layout_marginStart="100dp"
+						android:layout_marginTop="40dp"
+						android:alpha="0.69999998807907" />
+
+					<ImageButton android:id="@+id/home18"
+						android:src="@drawable/home_1dd"
+						android:contentDescription="home18"
+						android:layout_width="36dp"
+						android:layout_height="36dp"
+						android:layout_marginStart="20dp"
+						android:layout_marginTop="40dp"
+						android:alpha="0.69999998807907" />
+
+					<ImageView android:id="@+id/star1"
+						android:src="@drawable/star18"
+						android:contentDescription="star18"
+						android:layout_width="36dp"
+						android:layout_height="36dp"
+						android:layout_marginStart="280dp"
+						android:layout_marginTop="40dp"
+						android:alpha="0.69999998807907" />
+
+					<ImageView android:id="@+id/user18"
+						android:src="@drawable/user_1dd"
+						android:contentDescription="user18"
+						android:layout_width="36dp"
+						android:layout_height="36dp"
+						android:layout_marginStart="355dp"
+						android:layout_marginTop="40dp"
+						android:alpha="0.69999998807907" />
+
+					<ImageView android:id="@+id/line48"
+						android:src="@drawable/line48"
+						android:contentDescription="line48"
+						 android:layout_marginStart="100dp"
+						android:layout_marginTop="80dp"
+						android:layout_width="41dp"
+						android:layout_height="5dp" />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/return88"
+					android:layout_marginTop="89dp"
+					android:layout_marginStart="7dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<TextView android:id="@+id/choose_the_program"
+						android:textStyle="bold"
+						android:textSize="20sp"
+						android:textColor="@color/choose_the_program_color"
+						android:layout_marginLeft="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="272.4dp"
+						android:layout_height="30dp"
+						android:text="@string/choose_the_program_string"
+						 />
+
+				</RelativeLayout>
+
+				<ImageView android:id="@+id/reformer21"
+					android:src="@drawable/reformer21"
+					android:contentDescription="reformer21"
+					 android:layout_marginStart="13dp"
+					android:layout_marginTop="131dp"
+					android:layout_width="197dp"
+					android:layout_height="127dp" />
+
+				<ImageView android:id="@+id/image2"
+					android:src="@drawable/image2"
+					android:contentDescription="image2"
+					 android:layout_marginStart="128dp"
+					android:layout_marginTop="365dp"
+					android:layout_width="226dp"
+					android:layout_height="118dp" />
+
+
+				<RelativeLayout android:id="@+id/button33"
+					android:layout_marginTop="506dp"
+					android:layout_marginStart="128dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageButton   android:id="@+id/rectangle54"
+						android:background="@drawable/rectangle54_shape"
+						 android:alpha="0.9200000166893"
+						 android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:layout_width="226dp"
+						android:layout_height="40dp" />
+
+					<TextView android:id="@+id/on_mat"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="14sp"
+						android:textColor="@color/_bg__choose_the_program_screen_ek2_color"
+						android:layout_marginLeft="28dp"
+						android:layout_marginTop="10dp"
+						android:layout_width="176.19dp"
+						android:layout_height="24.4dp"
+						android:text="@string/on_mat_string"
+						 />
+
+				</RelativeLayout>
+
+
+				<RelativeLayout android:id="@+id/button15"
+					android:layout_marginTop="280dp"
+					android:layout_marginStart="13dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<ImageButton
+						android:id="@+id/rectangle334"
+						android:layout_width="197dp"
+						android:layout_height="40dp"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:alpha="0.9200000166893"
+						android:background="@drawable/rectangle334_shape" />
+
+					<TextView android:id="@+id/on_studio_equipment"
+						android:textSize="14sp"
+						android:textColor="@color/_bg__choose_the_program_screen_ek2_color"
+						android:layout_marginLeft="26dp"
+						android:layout_marginTop="10dp"
+						android:layout_width="161.4dp"
+						android:layout_height="24.4dp"
+						android:text="@string/on_studio_equipment_string"
+						 />
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- streaming_video_screen strings -->
+
+
+
+	<string name="choose_the_program_string">Choose the program</string>
+	<string name="on_mat_string">On Mat</string>
+	<string name="on_studio_equipment_string">On Studio Equipment</string>
+
+
+	<string name="good_morningss__aleksandra__string">Good Morning, Aleksandra!</string>
+	<string name="what_wouldss_you_like_to_do_today__string">What would you like to do today?</string>
+	<string name="my_favouritesss_string">My favourites</string>
+	<string name="see_allss_string">See all</string>
+	<string name="pilates_for_better_lifevv_string">Pilates for better life</string>
+	<string name="see_allvv_string">See all</string>
+	<string name="_11_00vv_string">11:00</string>
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="done_string">Done</string>
+	<string name="description_of_the_training__from_a_supine_position__lying_on_your_back__with_bent_knees__press_your_feet_into_the_floor_and_lift_your_hips__initially__you_can_hold_the_positions_to_build_isometric_strength__over_time__lift_on_the_exhalation_and_lower_your_hips_on_the_inhalation__string">Description of the training:From a supine position (lying on your back) with bent knees, press your feet into the floor and lift your hips. Initially, you can hold the positions to build isometric strength. Over time, lift on the exhalation and lower your hips on the inhalation.</string>
+</resources>

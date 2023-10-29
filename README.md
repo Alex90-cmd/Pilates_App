@@ -6,9 +6,9 @@ under the config directory and free to use and contribute to.
 
 <h1 align="left">Supported documentation</h1>
 
-Figma design (original file + exported pdf file)
+<a href="https://github.com/Alex90-cmd/Pilates_App/tree/b425d34ae009bed0d91e8e6a5b4408d2ecdf664d/Figma%20project" target="_blank">Figma design (original file + exported pdf file)</a> 
 
-Android Studio project
+<a href="https://github.com/Alex90-cmd/Pilates_App/tree/b425d34ae009bed0d91e8e6a5b4408d2ecdf664d" target="_blank">Android Studio project</a> 
 
 <a href="https://youtu.be/srpU-WQ0Jdw?si=uG2Xo9sOFC09oxVV" target="_blank">YouTube video with the demonstration of design on Figma and Android Studio</a> 
 

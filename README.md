@@ -1,8 +1,7 @@
 # Pilates_App
 This Repo is designed for Pilates progress app. This is the live working configuration of my application.
 The description of the system and supported documentation such as design, YouTube video should help
-inspire you to jump into this project. Use the menu links to switch between sections. All of the code is
-under the config directory and free to use and contribute to.
+inspire you to jump into this project. Use the menu links to switch between sections.
 
 <h1 align="left">Supported documentation</h1>
 

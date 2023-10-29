@@ -11,7 +11,7 @@ inspire you to jump into this project. Use the menu links to switch between sect
 
 <a href="https://youtu.be/srpU-WQ0Jdw?si=uG2Xo9sOFC09oxVV" target="_blank">YouTube video with the demonstration of design on Figma and Android Studio</a> 
 
-PDF document with the assignment part
+<a href="https://github.com/Alex90-cmd/Pilates_App/tree/f90aa7fd2f97f4582f73e133c3ab25c6c3143c81/PDF%20document" target="_blank">PDF document with the assignment part</a> 
 
 <h1 align="left">Section description of the system</h1>
 

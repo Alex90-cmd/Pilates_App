@@ -8,7 +8,7 @@ under the config directory and free to use and contribute to.
 
 <a href="https://github.com/Alex90-cmd/Pilates_App/tree/f7426dcff12a22148868f64f0392ba958d3c448e/Figma%20project" target="_blank">Figma design (original file + exported pdf file)</a> 
 
-<a href="https://github.com/Alex90-cmd/Pilates_App/tree/b425d34ae009bed0d91e8e6a5b4408d2ecdf664d" target="_blank">Android Studio project</a> 
+<a href="https://github.com/Alex90-cmd/Pilates_App/tree/95aa2a3c0e3031bc1bc4ca8ec419139e498a31ab" target="_blank">Android Studio project</a> 
 
 <a href="https://youtu.be/srpU-WQ0Jdw?si=uG2Xo9sOFC09oxVV" target="_blank">YouTube video with the demonstration of design on Figma and Android Studio</a> 
 

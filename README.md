@@ -7,7 +7,7 @@ inspire you to jump into this project. Use the menu links to switch between sect
 
 <a href="https://github.com/Alex90-cmd/Pilates_App/tree/f7426dcff12a22148868f64f0392ba958d3c448e/Figma%20project" target="_blank">Figma design (original file + exported pdf file)</a> 
 
-<a href="https://github.com/Alex90-cmd/Pilates_App/tree/53e6a1f320d57faa7a109b9d92e7d5e9e696f171" target="_blank">Android Studio project</a> 
+<a href="https://github.com/Alex90-cmd/Pilates_App/tree/46c9ccc8ede008727e1e92a250f8789465e70856" target="_blank">Android Studio project</a> 
 
 <a href="https://youtu.be/srpU-WQ0Jdw?si=uG2Xo9sOFC09oxVV" target="_blank">YouTube video with the demonstration of design on Figma and Android Studio</a> 
 

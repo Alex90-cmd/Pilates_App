@@ -6,7 +6,7 @@ under the config directory and free to use and contribute to.
 
 <h1 align="left">Supported documentation</h1>
 
-<a href="https://github.com/Alex90-cmd/Pilates_App/tree/b425d34ae009bed0d91e8e6a5b4408d2ecdf664d/Figma%20project" target="_blank">Figma design (original file + exported pdf file)</a> 
+<a href="https://github.com/Alex90-cmd/Pilates_App/tree/f7426dcff12a22148868f64f0392ba958d3c448e/Figma%20project" target="_blank">Figma design (original file + exported pdf file)</a> 
 
 <a href="https://github.com/Alex90-cmd/Pilates_App/tree/b425d34ae009bed0d91e8e6a5b4408d2ecdf664d" target="_blank">Android Studio project</a> 
 
